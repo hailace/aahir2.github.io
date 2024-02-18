@@ -1,0 +1,30 @@
+{
+  "users" :
+          [
+            {
+              "DisplayName": "Bilbo Baggins",
+              "EmailAddress": "bilbobagging@example.com",
+              "Username": "bbaggins",
+              "Password": "12345"
+            },
+
+            {
+              "DisplayName": "john doe",
+              "EmailAddress": "johndoe@example.com",
+              "Username": "jdoe",
+              "Password": "67890"
+            },
+            {
+              "DisplayName": "Admin",
+              "EmailAddress": "admin@example.com",
+              "Username": "admin",
+              "Password": "55555"
+            }
+
+
+          ]
+
+
+
+
+}
